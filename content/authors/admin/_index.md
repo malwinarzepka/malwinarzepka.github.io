@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bespoke bubbles
+title: Malwina Rzepka
 
 # Name pronunciation (optional)
 
@@ -46,23 +46,22 @@ profiles:
 academic interests:
   - Institutional Economics
   - Housing Market
-  - 
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Finance and economics
+    institution: Kozminski University
+    date_start: 2020-11-01
+    date_end: ongoing
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on _Bespoke bubbles_. Supervised by [Prof Aneta Hryckiewicz](https://example.com).
+   # button:
+    #  text: 'Read Thesis'
+     # url: 'https://example.com'
+  - area: Master in Big Data Analysis in Finance & Accounting
+    institution: Kozminski University
+    date_start: 2018-10-01
+    date_end: 2020-09-30
     summary: |
       GPA: 3.8/4.0
 
@@ -70,12 +69,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Finance & Accounting
+    institution: Kozminski University
+    date_start: 2015-10-01
+    date_end: 2018-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.75/5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -181,4 +180,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Malwina Rzepka is an assistant and PhD candidate at Kozminski University. Her research interests include housing market and systemic risk. She is a laurate of Polish National Science Centre's Preludium grant.
