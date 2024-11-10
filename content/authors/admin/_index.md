@@ -1,13 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Bespoke bubbles
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Malwina
+last_name: Rzepka
 
 # Status emoji
 status:
@@ -20,23 +19,21 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant, PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Kozminski University
+    url: https://www.kozminski.edu.pl/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mrzepka@kozminski.edu.pl'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/hellomalvina
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -46,9 +43,10 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+academic interests:
+  - Institutional Economics
+  - Housing Market
+  - 
   - Information Retrieval
 
 education:
@@ -143,11 +141,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    level: C1/C2
+  - name: Polish
+    level: Native
+  - name: French
+    level: A2
 
 # Awards.
 #   Add/remove as many awards below as you like.
