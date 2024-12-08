@@ -52,7 +52,7 @@ education:
   - area: PhD Finance and economics
     institution: Kozminski University
     date_start: 2020-11-01
-    date_end: ongoing
+    date_end: 2025-10-30
     summary: |
       Thesis on _Bespoke bubbles_. Supervised by [Prof Aneta Hryckiewicz](https://example.com).
    # button:
