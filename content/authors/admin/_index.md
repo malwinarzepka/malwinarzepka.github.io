@@ -63,12 +63,13 @@ education:
     date_start: 2018-10-01
     date_end: 2020-09-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.4/5.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Markets, Instruments and Financial Institutions
+      - Financial Markets and their Psychology
+      - Econometrics
+      - Machine Learning
   - area: BSc Finance & Accounting
     institution: Kozminski University
     date_start: 2015-10-01
@@ -77,9 +78,9 @@ education:
       GPA: 4.75/5.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Macroeconomics
+      - Corporate Finance
+      - Statistics 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -150,15 +151,17 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+research grants:
+  - title: Polish National Science Centre PRELUDIUM grant
+    position: Principal Investigator
+    url: https://projekty.ncn.gov.pl/en/index.php?projekt_id=587752
+    date: 'Jan 2023 - Jan 2026'
+    Amount: 151 218 PLN
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Polish National Science Centre's PRELUDIUM grant is a highly competetive research grant intended for pre-doctoral researchers about to embark on their scientific career. I received the grant for my project "Bespoke bubbles — New determinants and detection methods of housing bubbles in different countries."
   - title: Blockchain Fundamentals
+    position: 'Research assistant'
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
