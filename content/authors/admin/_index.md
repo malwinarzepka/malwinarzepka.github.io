@@ -136,7 +136,7 @@ skills:
       - name: Art
         description: ''
         percent: 80
-        icon: painting
+        icon: paint-brush
 
 languages:
   - name: English
