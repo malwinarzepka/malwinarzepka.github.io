@@ -49,7 +49,7 @@ academic interests:
   - Crises and risk
 
 education:
-  - area: PhD Finance and economics
+  - area: PhD Finance and economics (ongoing)
     institution: Kozminski University
     date_start: 2020-11-01
     date_end: 2025-10-30
