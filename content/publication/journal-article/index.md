@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["working-paper"]
+publication_types: ["working paper"]
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
@@ -39,7 +39,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390485
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -67,7 +67,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
----
+
 
 #{{% callout note %}}
 #Click the *Cite* button above to demo the #feature to enable visitors to import #publication metadata into their reference #management software.
@@ -78,3 +78,4 @@ projects: []
 #{{% /callout %}}
 
 #Add the publication's **full text** or #**supplementary notes** here. You can use #rich formatting such as including [code, #math, and images](https://docs.hugoblox.com/#content/writing-markdown-latex/).
+---
