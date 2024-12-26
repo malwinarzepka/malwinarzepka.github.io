@@ -150,8 +150,8 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-research grants:
-  - title: Polish National Science Centre PRELUDIUM grant
+Awards:
+  - title: Polish National Science Centre PRELUDIUM research grant
     position: Principal Investigator
     url: https://projekty.ncn.gov.pl/en/index.php?projekt_id=587752
     date: 'Jan 2023 - Jan 2026'
@@ -160,8 +160,7 @@ research grants:
     summary: |
       Polish National Science Centre's PRELUDIUM grant is a highly competetive research grant intended for pre-doctoral researchers about to embark on their scientific career. I received the grant for my project "Bespoke bubbles — New determinants and detection methods of housing bubbles in different countries."
   
-
+---
 ## About Me
 
 Malwina Rzepka is an assistant and PhD candidate at Kozminski University. Her research interests include housing market and systemic risk. She is a laurate of Polish National Science Centre's Preludium grant.
----
