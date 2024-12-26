@@ -1,4 +1,6 @@
 active: false
+draft: true
+cms_exclude: true
 ---
 title: Example Talk
 

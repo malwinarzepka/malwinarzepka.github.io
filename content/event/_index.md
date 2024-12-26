@@ -1,4 +1,7 @@
+active: false 
 draft: true
+cms_exclude: true
+
 ---
 title: Recent & Upcoming Talks
 cms_exclude: true
