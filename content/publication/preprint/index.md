@@ -1,5 +1,6 @@
+draft: true
+cms_exclude: true
 ---
-active: false
 title: "An example preprint / working paper"
 authors:
 - admin
