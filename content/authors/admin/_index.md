@@ -154,7 +154,7 @@ Awards:
   - title: Polish National Science Centre PRELUDIUM research grant
     position: Principal Investigator
     url: https://projekty.ncn.gov.pl/en/index.php?projekt_id=587752
-    date: 'Jan 2023 - Jan 2026'
+    date: '2024-01-16'
     Amount: 151 218 PLN
     #icon: coursera
     summary: |
