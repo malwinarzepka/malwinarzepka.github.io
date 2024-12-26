@@ -54,7 +54,7 @@ education:
     date_start: 2020-11-01
     date_end: 2025-10-30
     summary: |
-      Thesis on _Bespoke bubbles — New determinants and detection methods of housing bubbles in different countries_. Supervised by [Prof Aneta Hryckiewicz](https://ahryckiewicz.pl/).
+      Dissertation on _Bespoke bubbles — New determinants and detection methods of housing bubbles in different countries_. Supervised by [Prof Aneta Hryckiewicz](https://ahryckiewicz.pl/).
    # button:
     #  text: 'Read Thesis'
      # url: 'https://example.com'
@@ -133,18 +133,18 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Art
         description: ''
         percent: 80
-        icon: camera
+        icon: painting
 
 languages:
   - name: English
-    level: 100
+    level: 100%
   - name: Polish
-    level: 100
+    level: 100%%
   - name: French
-    level: 40
+    level: 40%
 
 # Awards.
 #   Add/remove as many awards below as you like.
