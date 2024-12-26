@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+          I'm a researcher specializing in housing markets and bubble dynamics. My work combines institutional analysis, behavioral finance, and machine learning to better detect and understand housing overvaluation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+          I explore how structural factors — like tax policies, subsidies, and cultural preferences — shape price-to-rent and price-to-income ratios across economies. I'm also developing AI tools that integrate financial, sentiment, and market structure data for bubble detection.
+
+        Let’s connect and collaborate! 
     design:
       columns: '1'
   - block: collection
