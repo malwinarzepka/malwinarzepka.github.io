@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Tic-tac-toe
+date: 2022-12-30
+external_link: https://github.com/malwinarzepka/projects/blob/main/tic_tac_toe_final_Malwina.ipynb
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - Game
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+Computer vs. human player tic-tac-toe game, written in Python.
 <!--more-->
