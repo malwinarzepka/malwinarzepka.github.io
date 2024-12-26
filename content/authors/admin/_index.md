@@ -156,7 +156,7 @@ research grants:
     url: https://projekty.ncn.gov.pl/en/index.php?projekt_id=587752
     date: 'Jan 2023 - Jan 2026'
     Amount: 151 218 PLN
-    icon: coursera
+    #icon: coursera
     summary: |
       Polish National Science Centre's PRELUDIUM grant is a highly competetive research grant intended for pre-doctoral researchers about to embark on their scientific career. I received the grant for my project "Bespoke bubbles — New determinants and detection methods of housing bubbles in different countries."
   
