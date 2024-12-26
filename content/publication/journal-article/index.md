@@ -10,7 +10,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2023-010-01T00:00:00Z"
-doi: "http://dx.doi.org/10.2139/ssrn.4390485 "
+doi: "http://dx.doi.org/10.2139/ssrn.4390485"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -32,7 +32,7 @@ summary: Banks' investment in technological development has benefited underserve
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
