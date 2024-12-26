@@ -34,10 +34,10 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |
-          I'm a researcher specializing in housing markets and bubble dynamics. My work combines institutional analysis, behavioral finance, and machine learning to better detect and understand housing overvaluation.
+      text: |-
+        I'm a researcher specializing in housing markets and bubble dynamics. My work combines institutional analysis, behavioral finance, and machine learning to better detect and understand housing overvaluation.
 
-          I explore how structural factors — like tax policies, subsidies, and cultural preferences — shape price-to-rent and price-to-income ratios across economies. I'm also developing AI tools that integrate financial, sentiment, and market structure data for bubble detection.
+        I explore how structural factors — like tax policies, subsidies, and cultural preferences — shape price-to-rent and price-to-income ratios across economies. I'm also developing AI tools that integrate financial, sentiment, and market structure data for bubble detection.
 
         Let’s connect and collaborate! 
     design:
