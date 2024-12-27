@@ -71,7 +71,7 @@ education:
       - Econometrics
       - Machine Learning
       
-  - area: BSc Finance & Accounting
+  - area: BSc in Finance & Accounting
     institution: Kozminski University
     date_start: 2015-10-01
     date_end: 2018-06-30
@@ -125,7 +125,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Walks
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -140,11 +140,11 @@ skills:
 
 languages:
   - name: English
-    level: 100%
+    level: C1
   - name: Polish
-    level: 100%
+    level: C2
   - name: French
-    level: 40%
+    level: A2
 
 # Awards.
 #   Add/remove as many awards below as you like.

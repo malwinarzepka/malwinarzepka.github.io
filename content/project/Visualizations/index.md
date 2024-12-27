@@ -1,6 +1,6 @@
 ---
 title: Visualizing discrepancies
-date: 2023-10-26
+date: 2024-11-11
 external_link: https://github.com/pandas-dev/pandas
 tags:
   - Housing bubbles
