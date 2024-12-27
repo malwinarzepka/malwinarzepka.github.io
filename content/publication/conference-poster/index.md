@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Identifying Housing Market Bubbles: Bespoke Bubbles for Diverse Market Structures'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -65,7 +65,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - Visualizations
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
