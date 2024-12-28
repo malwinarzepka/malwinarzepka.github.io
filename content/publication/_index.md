@@ -1,6 +1,4 @@
 ---
-draft: true
-cms_exclude: true
 
 title: Publications
 #cms_exclude: true
