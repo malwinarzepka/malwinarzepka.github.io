@@ -1,11 +1,11 @@
 ---
 title: "Bank technological innovation and SME lending: do we experience a transformation in a bank-SME relationship?"
 authors:
--Aneta Hryckiewicz
--Julia Korosteleva
--Lukasz Kozlowski
--Malwina Rzepka
--Ruomeng Wang
+- Aneta Hryckiewicz,
+- Julia Korosteleva,
+- Lukasz Kozlowski,
+- Malwina Rzepka,
+- Ruomeng Wang
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
