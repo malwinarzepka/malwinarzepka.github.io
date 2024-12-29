@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: dash-app
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn export_chart:app
+    envVars:
+      - key: PORT
+        value: 8050
