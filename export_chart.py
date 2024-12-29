@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 # Load the data
-data = pd.read_csv('static/uploads/clean_viz3.csv')  # Update path if needed
+data = pd.read_csv('clean_viz3.csv')  # Update path if needed
 data['Time'] = pd.to_datetime(data['Time'])
 data['FormattedTime'] = data['Time'].dt.to_period('Q').astype(str)
 
