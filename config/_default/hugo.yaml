@@ -41,12 +41,18 @@ imaging:
   resampleFilter: lanczos
   quality: 80
   anchor: smart
+
 timeout: 600000
+
 taxonomies:
   author: authors
   tag: tags
   publication_type: publication_types
+  
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   _merge: deep
   highlight:
     lineNos: false
