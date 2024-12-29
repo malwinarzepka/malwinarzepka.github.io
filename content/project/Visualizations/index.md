@@ -11,5 +11,6 @@ tags:
 
 Interactive charts visualizing the discrepancies between the past housing bubble research in which GSADF test (Philips, Shi and Yu, 2015) was used. Pick country and gradually add each paper for the best understanding of how much results differ.
 
-[View Interactive Chart](uploads/interactive_chart.txt)
+<iframe src="/interactive_chart.html" width="100%" height="600px" frameborder="0"></iframe>
+<!--more-->
 <!--more-->
