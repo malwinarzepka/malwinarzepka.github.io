@@ -7,6 +7,8 @@ tags:
   - Past research
   - Bubble detection
   - PSY method
+aliases:
+  - /visualizations/
 ---
 
 Interactive charts visualizing the discrepancies between the past housing bubble research in which GSADF test (Philips, Shi and Yu, 2015) was used. Pick country and gradually add each paper for the best understanding of how much results overlap (or not at all!)
