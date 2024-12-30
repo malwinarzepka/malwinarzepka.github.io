@@ -13,7 +13,7 @@ Interactive charts visualizing the discrepancies between the past housing bubble
 
 For mobile phones, I recommend tilting your device horizontally, or viewing the charts directly in the [Tableau](https://public.tableau.com/shared/6CFY7MWQT?:display_count=n&:origin=viz_share_link).
 
-<div class="tableauPlaceholder" id="viz1735517132628" style="width: 100%; height: auto; max-width: 1200px; margin: 0 auto;">
+<div class="tableauPlaceholder" id="viz1735517132628" style="width: 100%; height: auto; max-width: 1200px; min-width: 600px; margin: 0 auto;">
     <noscript>
         <a href="https://public.tableau.com/shared/6CFY7MWQT?:display_count=n&:origin=viz_share_link">
             <img alt="Visualizing detected housing bubbles - United Kingdom" 
@@ -37,9 +37,17 @@ For mobile phones, I recommend tilting your device horizontally, or viewing the 
 <script type="text/javascript">
     var divElement = document.getElementById('viz1735517132628');
     var vizElement = divElement.getElementsByTagName('object')[0];
-    vizElement.style.width = '100%'; 
-    vizElement.style.height = (window.innerWidth > 600 ? (divElement.offsetWidth * 0.75) : '500px');
+    if (window.innerWidth <= 600) {
+        // Mobile optimization
+        vizElement.style.width = '100%';
+        vizElement.style.height = '500px';
+    } else {
+        // Desktop optimization
+        vizElement.style.width = '100%';
+        vizElement.style.height = (divElement.offsetWidth * 0.6) + 'px'; // Better scaling
+    }
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
