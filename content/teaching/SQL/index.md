@@ -10,11 +10,11 @@ tags:
  # caption: 'Embed rich media such as videos and LaTeX math'
 ---
 ## Course structure: 
-  I develop my courses for full-time and part-time students, taking into account their needs and limitations. The course covers everything from data queries and programming to table joins and subqueries for full-time students. Part-time students focus on filtering, aggregate functions, and grouping to gain essential competencies they can use in their careers.
-  Each class has an introduction, examples, and hands-on tasks. These individual or small-group tasks enable students contribute and reinforce their learning. After students do the exercises, I check them right away. providing fast comments to confirm understanding and address any errors immediately.
+  I design my courses for both full-time and part-time students, taking into mind their requirements and limits. Full-time students will learn about everything from data queries and programming to table joins and subqueries. Part-time students concentrate on filtering, aggregate functions, and grouping to develop skills that will be useful in their future jobs.
+  Each class includes an introduction, examples, and hands-on activities. These individual or small-group assignments allow students to contribute and reinforce their learning. I immediately verify students answers once they complete the exercises. Quick comments to ensure understanding and rectify any problems right away.
 
 --- 
-## The overarching goals of my Big Data Analysis class include: 
+## Goals of my Big Data Analysis class include: 
 
   - Developing proficiency in SQL for data querying.
   - Building an understanding of relational databases and how to integrate data across multiple tables.
