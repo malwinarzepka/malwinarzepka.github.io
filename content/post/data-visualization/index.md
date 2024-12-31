@@ -11,7 +11,7 @@ tags:
   - PSY method
 ---
 
-Explore my [interactive visualisations](../project/Visualizations/) to learn when and where various studies detect bubbles—and where they disagree.
+Explore my [interactive visualisations](../project/visualizations/) to learn when and where various studies detect bubbles—and where they disagree.
 
 
 

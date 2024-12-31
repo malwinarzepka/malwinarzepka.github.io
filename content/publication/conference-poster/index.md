@@ -43,10 +43,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/files/poster.pdf'
+url_pdf: '/uploads/poster.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
 #rl_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
