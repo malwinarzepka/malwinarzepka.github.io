@@ -11,9 +11,9 @@ aliases:
   - /visualizations/
 ---
 
-Interactive charts visualizing the discrepancies between the past housing bubble research in which GSADF test (Philips, Shi and Yu, 2015) was used. Pick country and gradually add each paper for the best understanding of how much results overlap (or not at all!)
+Interactive charts that show the differences between previous housing bubble research utilizing the GSADF test (Philips, Shi, and Yu; 2015). Pick a country and gradually add each paper for the best understanding of how much results coincide (or not at all!)
 
-For mobile phones, I recommend tilting your device horizontally, or viewing the charts directly in the [Tableau](https://public.tableau.com/shared/6CFY7MWQT?:display_count=n&:origin=viz_share_link). For desktop, you can see the visualization in the full screen if you click the square next to the "Share" button.
+For mobile phones, I recommend tilting them horizontally or viewing the charts directly in [Tableau](https://public.tableau.com/shared/6CFY7MWQT?:display_count=n&:origin=viz_share_link).  If you click the square next to the "Share" button on desktop, the visualization will appear in full screen.
 
 <div class="tableauPlaceholder" id="viz1735517132628" style="width: 100%; height: auto; max-width: 1200px; min-width: 600px; margin: 0 auto;">
     <noscript>
