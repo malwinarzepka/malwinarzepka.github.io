@@ -54,7 +54,7 @@ education:
     date_start: 2020-11-01
     date_end: 2025-10-30
     summary: |
-      Dissertation on _Bespoke bubbles — New determinants and detection methods of housing bubbles in different countries_. Supervised by [Prof Aneta Hryckiewicz](https://ahryckiewicz.pl/).
+      Dissertation on _Bespoke bubbles — New determinants and detection methods of housing bubbles in different countries_. Supervised by [Professor Aneta Hryckiewicz](https://ahryckiewicz.pl/).
    # button:
     #  text: 'Read Thesis'
      # url: 'https://example.com'
@@ -82,6 +82,7 @@ education:
       - Macroeconomics
       - Corporate Finance
       - Statistics 
+
 work:
   - position: Junior Data Scientist
     company_name: Qodeca Sp. z o.o.
@@ -140,11 +141,11 @@ skills:
 
 languages:
   - name: English
-    level: C1
+    level: 90
   - name: Polish
-    level: C2
+    level: 100
   - name: French
-    level: A2
+    level: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -155,7 +156,7 @@ Awards:
     position: Principal Investigator
     url: https://projekty.ncn.gov.pl/en/index.php?projekt_id=587752
     date: '2024-01-16'
-    Amount: 151 218 PLN
+    Amount awarded: 151 218 PLN
     #icon: coursera
     summary: |
       Polish National Science Centre's PRELUDIUM grant is a highly competetive research grant intended for pre-doctoral researchers about to embark on their scientific career. I received the grant for my project "Bespoke bubbles — New determinants and detection methods of housing bubbles in different countries."

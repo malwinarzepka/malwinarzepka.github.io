@@ -1,6 +1,6 @@
 ---
 title: 📈 AEA poster session - supplementary charts
-summary: Interact with the chart and see the discrepancies in the past research
+summary: Comparing Housing Bubble Studies — What the Data Reveals
 date: 2024-12-30
 authors:
   - admin
@@ -10,6 +10,8 @@ tags:
   - Bubble detection
   - PSY method
 ---
-Check out the [interactive visualizations](../project/visualizations/) to explore housing bubble trends in detail.
+
+Explore my [interactive visualisations](../project/visualizations/) to learn when and where various studies detect bubbles—and where they disagree.
+
 
 
