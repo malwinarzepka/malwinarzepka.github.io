@@ -7,9 +7,12 @@ tags:
   - Past research
   - Bubble detection
   - PSY method
+  - NCN Preludium
 aliases:
   - /visualizations/
 ---
+This research was funded by National Science Centre, Poland, Grant No. 2023/49/N/HS4/03916
+
 
 Interactive charts that show the differences between previous housing bubble research utilizing the GSADF test (Philips, Shi, and Yu; 2015). Pick a country and gradually add each paper for the best understanding of how much results coincide (or not at all!)
 
