@@ -33,9 +33,7 @@ abstract: This study seeks to resolve the absence of agreement on identifying ho
 
 # Summary. An optional shortened abstract.
 summary: Using data from 1975 to 2022, this study compares approaches for detecting housing market bubbles in various nations. We demonstrate that commonly used metrics (such as price-to-rent and price-to-income ratios) and datasets (OECD, Fed Dallas International House Price Database), frequently fail to account for local market structures and institutional factors. The findings underline the need of specialized approaches to identifying bubbles, providing crucial insights for policymakers and scholars interested in housing market stability.
----
-### Funding
-This research was funded by National Science Centre, Poland, Grant No. 2023/49/N/HS4/03916
+
 
 
 
@@ -82,3 +80,5 @@ Projects:
 #slides: example
 
 ---
+### Funding
+This research was funded by National Science Centre, Poland, Grant No. 2023/49/N/HS4/03916
